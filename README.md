@@ -26,3 +26,15 @@ To enter **Panel Picker Mode**, hold the correct button combination during boot:
 | **L**       | 4       | Panel 4             |
 | **X**       | 5       | Panel 5 (Soy Sauce Console)    |
 | **A**       | 0       | Original Panel (Stock)  |
+
+
+## A very special thanks to:
+
+- Trash80 - [Dirtywave](https://dirtywave.com/)
+
+### and to the creators of:
+- [M8C](https://github.com/laamaa/m8c)
+- [EatPrilosec / Armbian for R36S](https://github.com/R36S-Stuff/R36S-Armbian)
+- [arkos](https://github.com/christianhaitian/a...)
+- [pishrink](https://github.com/Drewsif/PiShrink)
+- and the entire FOSS Linux community.
