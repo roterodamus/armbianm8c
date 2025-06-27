@@ -34,6 +34,11 @@ password: r36s
 
 you can set buffersize in ~/jackm8c.sh
 
+### install.sh
+
+if you want to recreate this build, check out install.sh. read it (I have not tested it yet, but its pretty straight forward), and execute on your r36s device. DO NOT EXECUTE ON YOUR PC!
+you will have to expand the file system first, couple of gb is more than enough.
+
 ## A very special thanks to:
 
 - Trash80 - [Dirtywave](https://dirtywave.com/)
