@@ -1,0 +1,11 @@
+[Unit]
+Description=Volume and Brightness Control via GPIO and Gamepad
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/gpio-keys-vol.py
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target

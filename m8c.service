@@ -1,0 +1,17 @@
+[Unit]
+Description=m8c
+After=network.target
+
+[Service]
+Type=simple
+User=r36s
+WorkingDirectory=/home/r36s
+ExecStart=/usr/local/bin/m8c
+Restart=always
+RestartSec=3
+StandardOutput=journal
+StandardError=journal
+
+
+[Install]
+WantedBy=multi-user.target

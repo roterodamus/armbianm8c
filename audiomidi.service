@@ -1,0 +1,16 @@
+[Unit]
+Description=Audio Setup and MIDI Bridge Script
+After=sound.target network.target
+Wants=sound.target
+
+[Service]
+ExecStart=/home/r36s/jackm8c.sh
+WorkingDirectory=/home/r36s
+Restart=always
+RestartSec=5
+User=r36s
+Environment=JACK_NO_AUDIO_RESERVATION=1
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+
+[Install]
+WantedBy=multi-user.target
