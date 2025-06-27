@@ -27,6 +27,12 @@ To enter **Panel Picker Mode**, hold the correct button combination during boot:
 | **X**       | 5       | Panel 5 (Soy Sauce Console)    |
 | **A**       | 0       | Original Panel (Stock)  |
 
+## Notes, tips and GoodToKnows:
+
+username: r36s
+password: r36s
+
+you can set buffersize in ~/jackm8c.sh
 
 ## A very special thanks to:
 
