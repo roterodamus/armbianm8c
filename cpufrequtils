@@ -1,0 +1,4 @@
+ENABLE=true
+MIN_SPEED=
+MAX_SPEED=
+GOVERNOR=performance
