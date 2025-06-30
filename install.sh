@@ -8,7 +8,7 @@ make
 sudo make install
 cd ..
 
-sudo apt install -y jackd2 jack-tools jack-example-tools a2jmidid libzita-alsa-pcmi0 evtest python3-evdev brightnessctl
+sudo apt install -y jackd2 jack-tools jack-example-tools a2jmidid libzita-alsa-pcmi0 evtest python3-evdev brightnessctl cpufrequtils
 
 sudo usermod -aG audio $USER
 sudo usermod -aG input $USER
@@ -26,6 +26,7 @@ sudo chmod +x /usr/local/bin/gpio-keys-vol.py
 sudo cp gpio-keys-vol.service /etc/systemd/system/gpio-keys-vol.service 
 sudo cp audiomidi.service /etc/systemd/system/audiomidi.service
 sudo cp m8c.service /etc/systemd/system/m8c.service
+sudo cp cpufrequtils /etc/default/cpufrequtils
 
 sudo systemctl enable m8c.service
 sudo systemctl enable audiomidi.service
