@@ -18,8 +18,10 @@ sudo sysctl -w kernel.sched_rt_runtime_us=-1
 
 cp config.ini /home/$USER/.local/share/m8c/config.ini
 cp jackm8c.sh /home/$USER/jackm8c.sh
+chmod +x /home/$USER/jackm8c.sh
 sudo cp audio.conf /etc/security/limits.d/audio.conf
 sudo cp gpio-keys-vol.py /usr/local/bin/gpio-keys-vol.py
+sudo chmod +x /usr/local/bin/gpio-keys-vol.py
 sudo cp gpio-keys-vol.service /etc/systemd/system/gpio-keys-vol.service 
 sudo cp audiomidi.service /etc/systemd/system/audiomidi.service
 sudo cp m8c.service /etc/systemd/system/m8c.service
