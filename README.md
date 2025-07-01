@@ -28,6 +28,7 @@ To enter **Panel Picker Mode**, hold the correct button combination during boot:
 | **A**       | 0       | Original Panel (Stock)  |
 
 ## Notes, tips and GoodToKnows:
+tested: panel 5(R36S soy) panel 4(R36H)
 
 username: r36s
 password: r36s
