@@ -3,7 +3,7 @@
 # CONFIGURATION
 buffersize=1024
 samplerate=44100
-period=4
+period=16
 
 # CLEANUP
 
