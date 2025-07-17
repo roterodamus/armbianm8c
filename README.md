@@ -45,7 +45,7 @@ you can set buffersize in ~/jackm8c.sh
 
 ### install.sh
 
-if you want to recreate this build, download [R36S-Armbian](https://github.com/R36S-Stuff/R36S-Armbian) check out install.sh. read it, and execute on your r36s device. DO NOT EXECUTE ON YOUR PC!
+if you want to recreate this build, download [R36S-Armbian](https://github.com/R36S-Stuff/R36S-Armbian) and check out install.sh. read it, and execute on your r36s device. DO NOT EXECUTE ON YOUR PC!
 You will have to expand the file system first, couple of gb is more than enough.
 
 ```bash
