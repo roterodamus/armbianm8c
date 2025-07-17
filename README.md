@@ -1,5 +1,6 @@
-# armbianm8c
+# Armbianm8c
 Operating System for the R36S game console running only M8C based on Armbian.
+
 This project replaces Arkm8c.
 
 ## Download link:
@@ -32,6 +33,7 @@ To enter **Panel Picker Mode**, hold the correct button combination during boot:
 tested: panel 5(R36S soy) panel 4(R36H)
 
 username: r36s
+
 password: r36s
 
 you can set buffersize in ~/jackm8c.sh
