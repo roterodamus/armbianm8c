@@ -43,6 +43,8 @@ This project is not perfect. Click and pops do occur, but mostly in the first 2 
 
 you can set buffersize in ~/jackm8c.sh
 
+sometimes the stereo channels are flipped
+
 ### install.sh
 
 if you want to recreate this build, download [R36S-Armbian](https://github.com/R36S-Stuff/R36S-Armbian) and check out install.sh. read it, and execute on your r36s device. DO NOT EXECUTE ON YOUR PC!
