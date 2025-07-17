@@ -3,7 +3,7 @@ Operating System for the R36S game console running only M8C based on Armbian
 
 ## Download link:
 Armbianm8c.tar.xz 0.1 - 435.2 MB
-- [Google Drive link](https://bit.ly/armbianm8c)
+- [Google Drive link](https://bit.ly/armbianm8c1)
 
 ## Controls:
 - D-pad = Navigation
