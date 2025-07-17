@@ -30,18 +30,23 @@ To enter **Panel Picker Mode**, hold the correct button combination during boot:
 | **A**       | 0       | Original Panel (Stock)  |
 
 ## Notes, tips and GoodToKnows:
+
 tested: panel 5(R36S soy) panel 4(R36H)
 
 username: r36s
 
 password: r36s
 
+cpu governor is set to performance, Your r36s might get hotter than usual. 
+
+This project is not perfect. Click and pops do occur, but mostly in the first 2 minutes. You should here them less after 2 minutes.
+
 you can set buffersize in ~/jackm8c.sh
 
 ### install.sh
 
-if you want to recreate this build, check out install.sh. read it, and execute on your r36s device. DO NOT EXECUTE ON YOUR PC!
-you will have to expand the file system first, couple of gb is more than enough.
+if you want to recreate this build, download [R36S-Armbian](https://github.com/R36S-Stuff/R36S-Armbian) check out install.sh. read it, and execute on your r36s device. DO NOT EXECUTE ON YOUR PC!
+You will have to expand the file system first, couple of gb is more than enough.
 
 ```bash
 sudo apt install -y git
