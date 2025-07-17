@@ -1,5 +1,5 @@
 # armbianm8c
-Operating System for the R36S game console running only M8C based on Armbian
+Operating System for the R36S game console running only M8C based on Armbian.
 This project replaces Arkm8c.
 
 ## Download link:
