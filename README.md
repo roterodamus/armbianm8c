@@ -1,8 +1,9 @@
 # armbianm8c
 Operating System for the R36S game console running only M8C based on Armbian
+This project replaces Arkm8c.
 
 ## Download link:
-Armbianm8c.tar.xz 0.1 - 435.2 MB
+Armbianm8c.tar.xz 1.0 - 371.1 MB (17-07-25)
 - [Google Drive link](https://bit.ly/armbianm8c1)
 
 ## Controls:
