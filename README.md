@@ -31,12 +31,12 @@ To enter **Panel Picker Mode**, hold the correct button combination during boot:
 
 | R1 + Button | Panel # | Description                          |
 |-------------|---------|--------------------------------------|
-| **U**       | 1       | Panel 1                              |
-| **R**       | 2       | Panel 2                              |
-| **D**       | 3       | Panel 3                              |
-| **L**       | 4       | Panel 4                              |
-| **X**       | 5       | Panel 5 (Soy Sauce Console)         |
-| **A**       | 0       | Original Panel (Stock)              |
+| **Up**      | 1       | Panel 1                              |
+| **Right**   | 2       | Panel 2                              |
+| **Down**    | 3       | Panel 3                              |
+| **Left**    | 4       | Panel 4                              |
+| **X**       | 5       | Panel 5 (Soy Sauce Console)          |
+| **A**       | 0       | Original Panel (Stock)               |
 
 ---
 
