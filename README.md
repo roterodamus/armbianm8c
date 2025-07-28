@@ -39,7 +39,7 @@ password: r36s
 
 cpu governor is set to performance, Your r36s might get hotter than usual. 
 
-This project is not perfect. Click and pops do occur, but mostly in the first 2 minutes. You should here them less after 2 minutes.
+This project is not perfect. Click and pops do occur, but mostly in the first 2 minutes. You should hear them less after 2 minutes.
 
 you can set buffersize in ~/jackm8c.sh
 
