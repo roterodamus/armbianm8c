@@ -1,9 +1,10 @@
 #!/bin/bash
 
-sudo apt update && sudo apt install -y git gcc pkg-config make libsdl2-dev libserialport-dev
+sudo apt update && sudo apt install -y git gcc pkg-config make libsdl3-dev libserialport-dev
 git clone https://github.com/laamaa/m8c.git
 cd m8c
-sed -i '/atexit(SDL_Quit);/a \ \ SDL_ShowCursor(SDL_DISABLE);' src/render.c
+#### hide mouse should be updated to work with sdl3
+# sed -i '/atexit(SDL_Quit);/a \ \ SDL_ShowCursor(SDL_DISABLE);' src/render.c
 make
 sudo make install
 cd ..
