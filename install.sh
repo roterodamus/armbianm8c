@@ -16,6 +16,8 @@ sudo usermod -aG video $USER
 
 sudo sysctl -w kernel.sched_rt_runtime_us=-1
 
+echo "extraargs=threadirqs" | sudo tee -a /boot/armbianEnv.txt
+
 mkdir -p /home/$USER/.local/share/m8c/
 cp config.ini /home/$USER/.local/share/m8c/config.ini
 cp jackm8c.sh /home/$USER/jackm8c.sh
