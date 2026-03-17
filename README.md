@@ -7,9 +7,8 @@ This project replaces Arkm8c.
 
 ## 📥 Download Links
 
-**Armbianm8c.tar.xz 1.0 - 371.1 MB (17-07-25)**  
+**Armbianm8c1.1.tar.xz 1.1 - 371.1 MB (17-03-26)**  
 - [Release Page](https://github.com/roterodamus/armbianm8c/releases)
-- [Google Drive link](https://bit.ly/armbianm8c1)
 
 ---
 
